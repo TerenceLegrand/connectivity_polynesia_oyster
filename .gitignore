@@ -24,3 +24,6 @@ NAMESPACE
 
 # Data file
 data/
+
+# Outputs
+outputs/
