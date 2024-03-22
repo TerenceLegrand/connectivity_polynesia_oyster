@@ -16,3 +16,24 @@ License: GPL (>= 2)
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
+Imports: 
+    cowplot,
+    devtools,
+    dplyr,
+    geosphere,
+    ggplot2,
+    ggrepel,
+    here,
+    igraph,
+    lme4,
+    openxlsx,
+    patchwork,
+    raster,
+    rcompendium,
+    reshape2,
+    rnaturalearth,
+    sf,
+    sp,
+    stats,
+    utils,
+    viridis
